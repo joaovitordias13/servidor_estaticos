@@ -19,19 +19,19 @@ Como desafio de concluir o módulo, tivemos que desenvolver um e-mail para uma l
 
 # 🎨 Pré-visualização :
 ## Email-1:
-<img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
+<img src="1.png" alt="">
 
 ## Email-2:
-<img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
+<img src="2.png" alt="">
 
 ## Email-3:
-<img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
+<img src="3.png" alt="">
 
 ## Email-4:
-<img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
+<img src="4.png" alt="">
 
 ## Noticia Corinthians:
-<img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
+<img src="5.png" alt="">
 
 
 
